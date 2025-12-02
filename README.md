@@ -16,7 +16,8 @@ It automatically:
 - Chooses the **best model**
 - Generates comparison tables
 - Plots all model predictions
-
+- The included tiny dataset is marketing spend versus sales
+  
 ---
 
 # 📊 Screenshots
