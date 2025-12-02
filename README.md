@@ -22,6 +22,9 @@ It automatically:
 
 # 📊 Screenshots
 
+### *Mathlab Plot Table of Model Comparisons*
+![Mathlab Plot](screenshots/mathlabplot.png)
+
 ### *Model Comparison and Prediction Table*
 ![Prediction Table](screenshots/table.png)
 
